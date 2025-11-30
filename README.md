@@ -1,1 +1,1 @@
-# stock_correlation_project
+A self-directed mini project analysing daily log-returns for a basket of large-cap technology stocks (AAPL, NVDA, GOOG, META, AMZN, MSFT, TSM). Using yfinance, the project downloads one year of price data, computes log-returns, and visualises correlation via a heatmap. Providing an easy and fast way to understand asset movements for further insight
